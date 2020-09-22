@@ -17,3 +17,10 @@ h2{
     font-weight: bolder;
     background: white;
 }
+.bg-form-contactexercise {
+    background-color: #f5f5f5;
+}
+.contactexercise-form{
+    max-width: 900px;
+    margin: 0 auto;
+}
