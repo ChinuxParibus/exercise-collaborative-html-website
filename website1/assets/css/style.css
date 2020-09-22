@@ -1,6 +1,10 @@
 body{
     background: #BDBDBD;
 }
+
+.navbar{
+    background-color: #2e2e2e;
+}
 .jumbotron{
     background-image: url("../img/bg.jpg");
     background-size: cover;
