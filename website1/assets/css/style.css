@@ -28,3 +28,13 @@ h2{
     max-width: 900px;
     margin: 0 auto;
 }
+.pFooter{
+    padding-left: 250px;
+}
+.betweenArticles{
+    padding-top:50px;
+    padding-bottom:50px;
+}
+.borderContact{
+    padding-top:50px;
+}
