@@ -1,5 +1,5 @@
 body{
-    background: #BDBDBD;
+    background:#2e2e2e;
 }
 
 .navbar{
@@ -8,8 +8,10 @@ body{
 .jumbotron{
     background-image: url("../img/bg.jpg");
     background-size: cover;
-    height: 1200px;
+    height: 800px;
     background-position: center;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
 }
 h1{
     font-size: 100pt;
@@ -29,7 +31,7 @@ h2{
     margin: 0 auto;
 }
 .pFooter{
-    padding-left: 250px;
+    padding-right: 520px;
 }
 .betweenArticles{
     padding-top:50px;
@@ -37,4 +39,7 @@ h2{
 }
 .borderContact{
     padding-top:50px;
+}
+.{
+    padding-bottom:50px;
 }
